@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<html>
+	<head>
+		<title>
+			T-800 Fetures/Models
+		</title>
+	</head>
+	<body>
+		<h1 style="text-align: center;">
+			T-800 features
+		</h1>
+		<p>
+			The T-800 works off a raspberry pi 4 with 8 GB ram and variable storage to fit your every need
+		</p>
+		<p>
+			The T-800 comes with four different models including the T-800 SUPER with a better radiator and much larger storage. Additionally if you decide there is the T-800 SWAP, with swappable OS's to tailor to your decided OS (windows and apple available upon request.) Finally there us the T-800 combo, with a mouse and keyboard.
+		</p>
 
-You can use the [editor on GitHub](https://github.com/Farmergamer2437/T-800.2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+		<p>
+			The T-800 SUPER comes with a two fan radiator, 16 GB memory, with retro pi preinstalled
+		</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		<p>
+			The T-800 SWAP comes with your choice of windows or apple OS
+		</p>
 
-### Markdown
+		<p>
+			The T-800 combo comes with a keyboard and mouse (and a monitor for extra)
+		</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Farmergamer2437/T-800.2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	</body>
+</html>
